@@ -4,8 +4,8 @@ A slightly biased candy trivia made in MIT App Inventor 2. Answer all 15 questio
 
 ## Screenshots
 ### Code
-![trivia1](https://github.com/jenny500li/Slightly-Bias-Trivia/blob/master/trivia1.png)
-![trivia2](https://github.com/jenny500li/Slightly-Bias-Trivia/blob/master/trivia2.png)
-![trivia3](https://github.com/jenny500li/Slightly-Bias-Trivia/blob/master/trivia3.png)
+![trivia1](https://github.com/jenny500li/Slightly-Bias-Trivia/blob/master/trivia1.PNG)
+![trivia2](https://github.com/jenny500li/Slightly-Bias-Trivia/blob/master/trivia2.PNG)
+![trivia3](https://github.com/jenny500li/Slightly-Bias-Trivia/blob/master/trivia3.PNG)
 ### Gameplay
 ![gameplay](https://github.com/jenny500li/Slightly-Bias-Trivia/blob/master/trivia.gif)
